@@ -73,11 +73,11 @@ if (isset($_GET['msg'])) {
                 <p class="text-light">Login to access your account.</p>
                 
                     <div class="form-floating mb-3">
-                        <input type="email" class="form-control" id="email_id" name="email_id" placeholder="Enter User Name" value="admin@example.com" autofocus autocomplete="off">
+                        <input type="email" class="form-control" id="email_id" name="email_id" placeholder="Enter User Name" value="" autofocus autocomplete="off">
                         <label for="email_id">Email ID    </label>
                     </div>
                     <div class="form-floating">
-                        <input type="password" class="form-control" id="admin_pwd" name="admin_pwd" value="admin123"  placeholder="Enter Password">
+                        <input type="password" class="form-control" id="admin_pwd" name="admin_pwd" value=""  placeholder="Enter Password">
                         <label for="admin_pwd">Password</label>
                     </div>
                     <div class="d-grid gap-2 mt-3">
