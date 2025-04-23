@@ -1,0 +1,11 @@
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/choosen-select/chosen.jquery.min.js"></script>
+<script src="assets/datatable/js/jquery.dataTables.min.js"></script>
+<script src="assets/datatable/js/dataTables.bootstrap5.min.js"></script>
+<script src="assets/datepicker/js/bootstrap-datepicker.js"></script>
+<script src="assets/inputmask/jquery.inputmask.js"></script>
+<script src="assets/js/sweetalert.min.js"></script>
+<script src="assets/js/commonfun2.js"></script>
+<script src="assets/js/custom.js"></script>
+<script src="assets/js/commonfun.js"></script>
